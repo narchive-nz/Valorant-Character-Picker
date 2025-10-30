@@ -8,9 +8,10 @@ the list of agents is updated to the most recent character (Veto)
 ## Screenshots
 
 ![SS1](screenshotz/Screenshot2025-10-30150007.png)
-* prompt
+prompt ^^^
 
 ![SS2](screenshotz/Screenshot2025-10-30150056.png)
-* output
+output ^^^
   
+
 
